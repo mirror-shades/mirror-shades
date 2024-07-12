@@ -15,4 +15,3 @@
 
 <br/>
 
-![mirror-shades GitHub stats](https://github-readme-stats.vercel.app/api?username=mirror-shades&show_icons=true&theme=gruvbox)
