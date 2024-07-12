@@ -10,7 +10,7 @@
 
 <img align="left" alt="Svelte" width="28px" style="padding-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
 
-<img align="left" alt="Tailwind" width="42px" style="padding-right:10px; padding-top:5px; " src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
+<img align="left" alt="Tailwind" width="42px" style="padding-right:10px; padding-top:7px; " src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
 
 <br />
 
