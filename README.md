@@ -9,7 +9,7 @@ _Systems level programming, or ancient wisdom..._
 </div>
 <div style="padding-top: 8px;">
   <a href="https://github.com/mirror-shades/doxa"><img src="https://img.shields.io/badge/Zig-Doxa_Compiler-193a9e" alt="Doxa Compiler" style="vertical-align:middle;"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="vertical-align:middle;">2nd century language and compiler</span>
 </div>
 
